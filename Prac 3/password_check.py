@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 - Practical
-github link: https://github.com/minhquan0902/cp1404practicals/tree/master/Prac_03
+github link: https://github.com/nguyenviethoang1411/CP140-Practicals
 """
 
 MIN_LENGTH = 1
